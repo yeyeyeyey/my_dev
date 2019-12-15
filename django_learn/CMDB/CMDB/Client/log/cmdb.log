@@ -1,0 +1,18 @@
+发送时间：2019-12-05 17:51:05	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：<urlopen error [Errno 61] Connection refused> 
+发送时间：2019-12-05 17:59:02	 服务器地址：http://127.0.0.1:8000:8000/assets/report 	 返回结果：发送失败了  原因是：<urlopen error [Errno 8] nodename nor servname provided, or not known> 
+发送时间：2019-12-05 18:00:17	 服务器地址：http://127.0.0.1:8000:8000/assets/report 	 返回结果：发送失败了  原因是：<urlopen error [Errno 8] nodename nor servname provided, or not known> 
+发送时间：2019-12-05 18:19:09	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：<urlopen error [Errno 61] Connection refused> 
+发送时间：2019-12-05 18:19:43	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：HTTP Error 500: Internal Server Error 
+发送时间：2019-12-05 18:23:25	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：HTTP Error 500: Internal Server Error 
+发送时间：2019-12-05 18:25:41	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：HTTP Error 500: Internal Server Error 
+发送时间：2019-12-05 18:26:36	 服务器地址：http://10.3.208.68:8000/assets/report 	 返回结果：发送失败了  原因是：HTTP Error 404: Not Found 
+发送时间：2019-12-05 18:29:06	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：发送失败了  原因是：HTTP Error 403: Forbidden 
+发送时间：2019-12-05 18:29:30	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：发送失败了  原因是：unsupported operand type(s) for %: 'NoneType' and 'str' 
+发送时间：2019-12-05 18:30:43	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：成功收到数据！ 
+发送时间：2019-12-05 18:32:03	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：成功收到数据！ 
+发送时间：2019-12-05 18:32:25	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：成功收到数据！ 
+发送时间：2019-12-05 18:33:13	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：成功收到数据！ 
+发送时间：2019-12-05 21:28:40	 服务器地址：http://0.0.0.0:8000/assets/report/ 	 返回结果：发送失败了  原因是：<urlopen error [Errno 61] Connection refused> 
+发送时间：2019-12-05 21:49:05	 服务器地址：http://192.168.1.101:8000/assets/report/ 	 返回结果：发送失败了  原因是：HTTP Error 500: Internal Server Error 
+发送时间：2019-12-05 21:50:18	 服务器地址：http://192.168.1.101:8000/assets/report/ 	 返回结果：资产已经加入或更新待审批区 
+发送时间：2019-12-06 11:46:32	 服务器地址：http://10.3.208.68:8000/assets/report/ 	 返回结果：资产已经加入或更新待审批区 
